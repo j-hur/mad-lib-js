@@ -1,5 +1,4 @@
 // Mad Lib
-console.log("hi");
 
 // Event Listener
 document.getElementById("btn").addEventListener("click", madPhrase);
